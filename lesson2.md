@@ -7,8 +7,18 @@
 ### H3
 
 ### Списки
+### Ordered List
 
-Заполнить тут все 
+1. First item
+2. Second item
+3. Third item
+
+### Unordered List
+
+- First item
+- Second item
+- Third item
+
 
 ### Ссылка
 
